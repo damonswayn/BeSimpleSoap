@@ -1,7 +1,7 @@
 {
     "name": "catch-of-the-day/soap",
     "type": "library",
-    "description": "A fork of the abandoned besimple/soap package with added support for Symfony 3.0",
+    "description": "A fork of the abandoned besimple/soap package with added support for Symfony 3.0/4.0",
     "keywords": ["soap"],
     "homepage": "http://besim.pl",
     "license": "MIT",
